@@ -1,0 +1,23 @@
+[
+    {"name": "Savings Account", "description": "A secure place to keep your savings.", "rate": "0.05%", "type": "deposit", "additional": "FDIC insured", "minimum age": "10"},
+    {"name": "Money Market Account", "description": "A high-interest account for large balances.", "rate": "0.10%", "type": "deposit", "additional": "minimum balance required", "minimum age": "18"},
+    {"name": "Certificate of Deposit", "description": "A fixed-term account with a fixed interest rate.", "rate": "0.50%", "type": "deposit", "additional": "penalty for early withdrawal", "minimum age": "21"},
+    {"name": "Individual Retirement Account", "description": "A tax-advantaged account for retirement savings.", "rate": "1.00%", "type": "investment", "additional": "tax benefits", "minimum age": "18"},
+    {"name": "401(k) Account", "description": "A retirement account sponsored by an employer.", "rate": "1.50%", "type": "investment", "additional": "employer match", "minimum age": "21"},
+    {"name": "529 College Savings Plan", "description": "A tax-advantaged account for college savings.", "rate": "2.00%", "type": "investment", "additional": "state tax deduction", "minimum age": "18"},
+    {"name": "Health Savings Account", "description": "A tax-advantaged account for medical expenses.", "rate": "1.25%", "type": "investment", "additional": "tax-free withdrawals", "minimum age": "18"},
+    {"name": "Custodial Account", "description": "An account for minors managed by an adult.", "rate": "0.75%", "type": "deposit", "additional": "guardian required", "minimum age": "0"},
+    {"name": "Joint Account", "description": "An account shared by two or more people.", "rate": "0.25%", "type": "deposit", "additional": "co-owners required", "minimum age": "18"},
+    {"name": "Trust Account", "description": "An account managed by a trustee for the benefit of another.", "rate": "1.75%", "type": "investment", "additional": "trustee required", "minimum age": "18"},
+    {"name": "Brokerage Account", "description": "An account for buying and selling investments.", "rate": "2.50%", "type": "investment",
+    "additional": "commission fees", "minimum age": "18"},
+    {"name": "Money Transfer Account", "description": "An account for transferring money between accounts", "rate": "0.00%", "type": "transaction", "additional": "fees may apply", "minimum age": "18"},
+    {"name": "Checking Account", "description": "An account for everyday transactions.", "rate": "0.00%", "type": "transaction", "additional": "overdraft fees", "minimum age": "18"},
+    {"name": "Credit Card Account", "description": "An account for making purchases on credit.", "rate": "15.00%", "type": "credit", "additional": "annual fees", "minimum age": "18"},
+    {"name": "Loan Account", "description": "An account for borrowing money.", "rate": "5.00%", "type": "credit", "additional": "interest charges", "minimum age": "18"},
+    {"name": "Mortgage Account", "description": "An account for financing a home purchase.", "rate": "3.50%", "type": "credit", "additional": "down payment required", "minimum age": "18"},
+    {"name": "Auto Loan Account", "description": "An account for financing a vehicle purchase.", "rate": "4.00%", "type": "credit", "additional": "collateral required", "minimum age": "18"},
+    {"name": "Personal Loan Account", "description": "An account for personal expenses.", "rate": "6.00%", "type": "credit", "additional": "credit check required", "minimum age": "18"},
+    {"name": "Student Loan Account", "description": "An account for educational expenses.", "rate": "4.50%", "type": "credit", "additional": "deferment options", "minimum age": "18"},
+    {"name": "Business Loan Account", "description": "An account for business expenses.", "rate": "7.00%", "type": "credit", "additional": "business plan required", "minimum age": "18"}
+]
